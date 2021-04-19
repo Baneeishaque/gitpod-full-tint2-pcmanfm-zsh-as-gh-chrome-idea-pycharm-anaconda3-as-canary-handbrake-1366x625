@@ -11,6 +11,7 @@ image:
   # - command: gh auth login
   # - command: git clone --depth 1 "https://gitlab.com/baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio-gh-chrome-private.git" chrome-config && export CHROME_CONFIG_HOME="`pwd`/chrome-config" && google-chrome --disable-dev-shm-usage
   # - command: ghb
+  # - command: anaconda-navigator
 
 # Ports to expose on workspace startup
 ports:
