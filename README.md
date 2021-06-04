@@ -12,30 +12,9 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625)
 
-## Tint 2 : 16.7
+### Base Image : [baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-2020-11-as-canary-1366x625](https://hub.docker.com/repository/docker/baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-2020-11-as-canary-1366x625)  
 
-## PCMan File Manager : 1.3.1
-
-## ZSH : 5.8
-### &nbsp;&nbsp; - Oh My ZSH : 95a06f3
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
-
-## Android Studio
-### &nbsp;&nbsp; - Android SDK : 30
-### &nbsp;&nbsp; - Stable : 4.1.3
-### &nbsp;&nbsp; - Canary : Arctic Fox (2020.3.1) Canary 14
-
-## Github CLI : 1.7.0
-
-## Google Chrome : 89.0.4389.114
-
-## IntelliJ IDEA : 2021.1
-
-## Pycharm : 2021.1
-
-## Anaconda3 : 2020.11
-
-## Handbrake : 1.3.3
+## Additional Tools
+### &nbsp;&nbsp; - Handbrake : 1.3.3
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625)"
