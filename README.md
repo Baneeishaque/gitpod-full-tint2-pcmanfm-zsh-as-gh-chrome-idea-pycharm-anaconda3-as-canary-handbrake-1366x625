@@ -1,4 +1,4 @@
-# Gitpod Full VNC Workspace On 1366x625 Resolution With Tint2, PCMan File Manager, ZSH with Oh My ZSH, Android Studio, Github CLI, Google Chrome, IntelliJ IDEA, Pycharm, Anaconda3 (2020.11), Android Studio Canary & HandBrake
+# Gitpod Full VNC Workspace On 1366x625 Resolution With Tint2, PCMan File Manager, ZSH with Oh My ZSH, Android Studio, Github CLI, Google Chrome, IntelliJ IDEA, Pycharm, Anaconda3, Android Studio Canary & HandBrake
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625)
@@ -12,7 +12,7 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625)
 
-### Base Image : [baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-2020-11-as-canary-1366x625](https://hub.docker.com/repository/docker/baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-2020-11-as-canary-1366x625)  
+### Base Image : [baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-1366x625](https://hub.docker.com/repository/docker/baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-1366x625)  
 
 ## Additional Tools
 ### &nbsp;&nbsp; - Handbrake : 1.3.3
