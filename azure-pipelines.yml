@@ -21,7 +21,7 @@ stages:
       displayName: Build & Push an image
       inputs:
         containerRegistry: 'Docker Hub'
-        repository: 'baneeishaque / gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625'
+        repository: 'baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625'
         command: 'buildAndPush'
         Dockerfile: '.gitpod.Dockerfile'
         tags: 'latest'
