@@ -9,7 +9,7 @@ resources:
 - repo: self
 
 stages:
-- stage: Build & Push image
+- stage: Build_And_Push_image
   displayName: Build & Push image
   jobs:
   - job: Build & Push
