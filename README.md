@@ -15,6 +15,6 @@
 ### Base Image : [baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-1366x625](https://hub.docker.com/repository/docker/baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-1366x625)  
 
 ## Additional Tools
-### &nbsp;&nbsp; - Handbrake : 1.3.3
+[//]: # "### &nbsp;&nbsp; - Handbrake : 1.3.3"
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625)"
